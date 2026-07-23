@@ -5,8 +5,6 @@
 
 The Financial Insight Dashboard provides a concise overview of Blissful Nigeria PLC financial performance and position as at 31 December 2023. It consolidates key financial metrics from the Statement of Profit or Loss (SPL), Statement of Financial Position (SOFP), and Statement of Changes in Equity (SOCE), enabling management to evaluate profitability, liquidity, and financial stability at a glance.
 
-### Dashboard Overview
-<img width="706" height="459" alt="Image" src="https://github.com/user-attachments/assets/223a7ecf-d89a-4614-91bc-73984c822ed3" />
 
 ### Profitability Analysis
 
@@ -63,6 +61,9 @@ Overall, the financial dashboard portrays a company with:
 - Increase EBITDA margin through cost optimization.
   
 - Enhance profit retention for future expansion.
+
+### Dashboard Overview
+<img width="706" height="459" alt="Image" src="https://github.com/user-attachments/assets/223a7ecf-d89a-4614-91bc-73984c822ed3" />
 
 ### Dashboard Features
 
